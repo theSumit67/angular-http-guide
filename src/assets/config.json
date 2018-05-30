@@ -1,0 +1,7 @@
+{
+  "heroesUrl": "api/heroes",
+  "textfile": "assets/textfile.txt",
+  "api": "http://localhost:3000/",
+  "apiPosts": "http://localhost:3000/posts",
+  "apiComments": "http://localhost:3000/comments"
+}
